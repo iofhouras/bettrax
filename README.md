@@ -2,6 +2,8 @@
 
 **The ultimate professional sports betting journal and analytics platform.**
 
+[![Live Demo](https://img.shields.io/badge/%F0%9F%9A%80_Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://iofhouras.github.io/bettrax/)
+
 BetTrax replaces messy spreadsheets with a beautiful, fast, and powerful dashboard for tracking every bet, analyzing performance, and growing your bankroll.
 
 ![BetTrax Dashboard](https://picsum.photos/id/1015/1200/630)
